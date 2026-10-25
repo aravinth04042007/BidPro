@@ -1,0 +1,702 @@
+[
+  {
+    "name": "Yashasvi Jaiswal",
+    "role": "Batsman",
+    "country": "India",
+    "type": "Domestic",
+    "matches": 52,
+    "runs": 1607,
+    "wickets": 0,
+    "basePrice": 1.5
+  },
+  {
+    "name": "Rinku Singh",
+    "role": "Batsman",
+    "country": "India",
+    "type": "Domestic",
+    "matches": 45,
+    "runs": 893,
+    "wickets": 0,
+    "basePrice": 1.0
+  },
+  {
+    "name": "Rajat Patidar",
+    "role": "Batsman",
+    "country": "India",
+    "type": "Domestic",
+    "matches": 40,
+    "runs": 1240,
+    "wickets": 0,
+    "basePrice": 1.0
+  },
+  {
+    "name": "Sai Sudharsan",
+    "role": "Batsman",
+    "country": "India",
+    "type": "Domestic",
+    "matches": 37,
+    "runs": 1790,
+    "wickets": 0,
+    "basePrice": 1.5
+  },
+  {
+    "name": "Prithvi Shaw",
+    "role": "Batsman",
+    "country": "India",
+    "type": "Domestic",
+    "matches": 79,
+    "runs": 1892,
+    "wickets": 0,
+    "basePrice": 1.0
+  },
+  {
+    "name": "Tilak Varma",
+    "role": "Batsman",
+    "country": "India",
+    "type": "Domestic",
+    "matches": 51,
+    "runs": 1489,
+    "wickets": 0,
+    "basePrice": 1.5
+  },
+  {
+    "name": "Abhishek Sharma",
+    "role": "All-Rounder",
+    "country": "India",
+    "type": "Domestic",
+    "matches": 77,
+    "runs": 1840,
+    "wickets": 11,
+    "basePrice": 1.5
+  },
+  {
+    "name": "Shivam Dube",
+    "role": "All-Rounder",
+    "country": "India",
+    "type": "Domestic",
+    "matches": 73,
+    "runs": 1720,
+    "wickets": 5,
+    "basePrice": 1.5
+  },
+  {
+    "name": "Axar Patel",
+    "role": "All-Rounder",
+    "country": "India",
+    "type": "Domestic",
+    "matches": 150,
+    "runs": 1650,
+    "wickets": 123,
+    "basePrice": 1.5
+  },
+  {
+    "name": "Washington Sundar",
+    "role": "All-Rounder",
+    "country": "India",
+    "type": "Domestic",
+    "matches": 60,
+    "runs": 400,
+    "wickets": 37,
+    "basePrice": 1.0
+  },
+  {
+    "name": "Nitish Kumar Reddy",
+    "role": "All-Rounder",
+    "country": "India",
+    "type": "Domestic",
+    "matches": 20,
+    "runs": 300,
+    "wickets": 3,
+    "basePrice": 1.0
+  },
+  {
+    "name": "Andre Russell",
+    "role": "All-Rounder",
+    "country": "West Indies",
+    "type": "Overseas",
+    "matches": 140,
+    "runs": 2650,
+    "wickets": 123,
+    "basePrice": 2.0
+  },
+  {
+    "name": "Sunil Narine",
+    "role": "All-Rounder",
+    "country": "West Indies",
+    "type": "Overseas",
+    "matches": 180,
+    "runs": 1700,
+    "wickets": 180,
+    "basePrice": 2.0
+  },
+  {
+    "name": "Yuzvendra Chahal",
+    "role": "Bowler",
+    "country": "India",
+    "type": "Domestic",
+    "matches": 160,
+    "runs": 40,
+    "wickets": 220,
+    "basePrice": 2.0
+  },
+  {
+    "name": "Bhuvneshwar Kumar",
+    "role": "Bowler",
+    "country": "India",
+    "type": "Domestic",
+    "matches": 180,
+    "runs": 300,
+    "wickets": 190,
+    "basePrice": 1.5
+  },
+  {
+    "name": "Mohammed Shami",
+    "role": "Bowler",
+    "country": "India",
+    "type": "Domestic",
+    "matches": 120,
+    "runs": 80,
+    "wickets": 130,
+    "basePrice": 1.5
+  },
+  {
+    "name": "Arshdeep Singh",
+    "role": "Bowler",
+    "country": "India",
+    "type": "Domestic",
+    "matches": 65,
+    "runs": 30,
+    "wickets": 85,
+    "basePrice": 1.5
+  },
+  {
+    "name": "Kuldeep Yadav",
+    "role": "Bowler",
+    "country": "India",
+    "type": "Domestic",
+    "matches": 90,
+    "runs": 100,
+    "wickets": 95,
+    "basePrice": 1.5
+  },
+  {
+    "name": "Trent Boult",
+    "role": "Bowler",
+    "country": "New Zealand",
+    "type": "Overseas",
+    "matches": 100,
+    "runs": 80,
+    "wickets": 120,
+    "basePrice": 1.5
+  },
+  {
+    "name": "Kagiso Rabada",
+    "role": "Bowler",
+    "country": "South Africa",
+    "type": "Overseas",
+    "matches": 80,
+    "runs": 50,
+    "wickets": 115,
+    "basePrice": 1.5
+  },
+  {
+    "name": "Pat Cummins",
+    "role": "Bowler",
+    "country": "Australia",
+    "type": "Overseas",
+    "matches": 60,
+    "runs": 350,
+    "wickets": 70,
+    "basePrice": 2.0
+  },
+  {
+    "name": "Mitchell Starc",
+    "role": "Bowler",
+    "country": "Australia",
+    "type": "Overseas",
+    "matches": 45,
+    "runs": 100,
+    "wickets": 65,
+    "basePrice": 2.0
+  },
+  {
+    "name": "Josh Hazlewood",
+    "role": "Bowler",
+    "country": "Australia",
+    "type": "Overseas",
+    "matches": 35,
+    "runs": 10,
+    "wickets": 45,
+    "basePrice": 1.5
+  },
+  {
+    "name": "Mohammed Siraj",
+    "role": "Bowler",
+    "country": "India",
+    "type": "Domestic",
+    "matches": 100,
+    "runs": 30,
+    "wickets": 100,
+    "basePrice": 1.5
+  },
+  {
+    "name": "Prasidh Krishna",
+    "role": "Bowler",
+    "country": "India",
+    "type": "Domestic",
+    "matches": 50,
+    "runs": 10,
+    "wickets": 55,
+    "basePrice": 1.0
+  },
+  {
+    "name": "KL Rahul",
+    "role": "Wicket-Keeper",
+    "country": "India",
+    "type": "Domestic",
+    "matches": 145,
+    "runs": 5222,
+    "wickets": 0,
+    "basePrice": 2.0
+  },
+  {
+    "name": "Shreyas Iyer",
+    "role": "Batsman",
+    "country": "India",
+    "type": "Domestic",
+    "matches": 116,
+    "runs": 3127,
+    "wickets": 0,
+    "basePrice": 1.5
+  },
+  {
+    "name": "Ruturaj Gaikwad",
+    "role": "Batsman",
+    "country": "India",
+    "type": "Domestic",
+    "matches": 71,
+    "runs": 2380,
+    "wickets": 0,
+    "basePrice": 1.5
+  },
+  {
+    "name": "Virat Kohli",
+    "role": "Batsman",
+    "country": "India",
+    "type": "Domestic",
+    "matches": 267,
+    "runs": 8661,
+    "wickets": 4,
+    "basePrice": 2.0
+  },
+  {
+    "name": "Rohit Sharma",
+    "role": "Batsman",
+    "country": "India",
+    "type": "Domestic",
+    "matches": 272,
+    "runs": 7046,
+    "wickets": 15,
+    "basePrice": 2.0
+  },
+  {
+    "name": "Shubman Gill",
+    "role": "Batsman",
+    "country": "India",
+    "type": "Domestic",
+    "matches": 118,
+    "runs": 3866,
+    "wickets": 0,
+    "basePrice": 1.5
+  },
+  {
+    "name": "Suryakumar Yadav",
+    "role": "Batsman",
+    "country": "India",
+    "type": "Domestic",
+    "matches": 150,
+    "runs": 3594,
+    "wickets": 1,
+    "basePrice": 1.5
+  },
+  {
+    "name": "Hardik Pandya",
+    "role": "All-Rounder",
+    "country": "India",
+    "type": "Domestic",
+    "matches": 120,
+    "runs": 2500,
+    "wickets": 55,
+    "basePrice": 2.0
+  },
+  {
+    "name": "Ravindra Jadeja",
+    "role": "All-Rounder",
+    "country": "India",
+    "type": "Domestic",
+    "matches": 240,
+    "runs": 2950,
+    "wickets": 160,
+    "basePrice": 2.0
+  },
+  {
+    "name": "Rashid Khan",
+    "role": "Bowler",
+    "country": "Afghanistan",
+    "type": "Overseas",
+    "matches": 120,
+    "runs": 500,
+    "wickets": 150,
+    "basePrice": 2.0
+  },
+  {
+    "name": "Jasprit Bumrah",
+    "role": "Bowler",
+    "country": "India",
+    "type": "Domestic",
+    "matches": 140,
+    "runs": 70,
+    "wickets": 170,
+    "basePrice": 2.0
+  },
+  {
+    "name": "Jos Buttler",
+    "role": "Wicket-Keeper",
+    "country": "England",
+    "type": "Overseas",
+    "matches": 120,
+    "runs": 4000,
+    "wickets": 0,
+    "basePrice": 2.0
+  },
+  {
+    "name": "Sanju Samson",
+    "role": "Wicket-Keeper",
+    "country": "India",
+    "type": "Domestic",
+    "matches": 170,
+    "runs": 4400,
+    "wickets": 0,
+    "basePrice": 2.0
+  },
+  {
+    "name": "Ravi Bishnoi",
+    "role": "Bowler",
+    "country": "India",
+    "type": "Domestic",
+    "matches": 70,
+    "runs": 10,
+    "wickets": 75,
+    "basePrice": 1.5
+  },
+  {
+    "name": "Varun Chakravarthy",
+    "role": "Bowler",
+    "country": "India",
+    "type": "Domestic",
+    "matches": 80,
+    "runs": 10,
+    "wickets": 95,
+    "basePrice": 1.5
+  },
+  {
+    "name": "Harshal Patel",
+    "role": "Bowler",
+    "country": "India",
+    "type": "Domestic",
+    "matches": 100,
+    "runs": 250,
+    "wickets": 120,
+    "basePrice": 1.5
+  },
+  {
+    "name": "Deepak Chahar",
+    "role": "Bowler",
+    "country": "India",
+    "type": "Domestic",
+    "matches": 80,
+    "runs": 100,
+    "wickets": 75,
+    "basePrice": 1.0
+  },
+  {
+    "name": "T Natarajan",
+    "role": "Bowler",
+    "country": "India",
+    "type": "Domestic",
+    "matches": 60,
+    "runs": 10,
+    "wickets": 65,
+    "basePrice": 1.0
+  },
+  {
+    "name": "Nicholas Pooran",
+    "role": "Wicket-Keeper",
+    "country": "West Indies",
+    "type": "Overseas",
+    "matches": 80,
+    "runs": 2200,
+    "wickets": 0,
+    "basePrice": 2.0
+  },
+  {
+    "name": "Heinrich Klaasen",
+    "role": "Wicket-Keeper",
+    "country": "South Africa",
+    "type": "Overseas",
+    "matches": 45,
+    "runs": 1300,
+    "wickets": 0,
+    "basePrice": 1.5
+  },
+  {
+    "name": "Ishan Kishan",
+    "role": "Wicket-Keeper",
+    "country": "India",
+    "type": "Domestic",
+    "matches": 110,
+    "runs": 2800,
+    "wickets": 0,
+    "basePrice": 1.5
+  },
+  {
+    "name": "Jitesh Sharma",
+    "role": "Wicket-Keeper",
+    "country": "India",
+    "type": "Domestic",
+    "matches": 40,
+    "runs": 700,
+    "wickets": 0,
+    "basePrice": 1.0
+  },
+  {
+    "name": "Quinton de Kock",
+    "role": "Wicket-Keeper",
+    "country": "South Africa",
+    "type": "Overseas",
+    "matches": 100,
+    "runs": 3100,
+    "wickets": 0,
+    "basePrice": 2.0
+  },
+  {
+    "name": "Phil Salt",
+    "role": "Wicket-Keeper",
+    "country": "England",
+    "type": "Overseas",
+    "matches": 25,
+    "runs": 800,
+    "wickets": 0,
+    "basePrice": 1.0
+  },
+  {
+    "name": "David Warner",
+    "role": "Batsman",
+    "country": "Australia",
+    "type": "Overseas",
+    "matches": 184,
+    "runs": 6565,
+    "wickets": 0,
+    "basePrice": 2.0
+  },
+  {
+    "name": "Faf du Plessis",
+    "role": "Batsman",
+    "country": "South Africa",
+    "type": "Overseas",
+    "matches": 145,
+    "runs": 4500,
+    "wickets": 0,
+    "basePrice": 2.0
+  },
+  {
+    "name": "AB de Villiers",
+    "role": "Batsman",
+    "country": "South Africa",
+    "type": "Overseas",
+    "matches": 184,
+    "runs": 5162,
+    "wickets": 0,
+    "basePrice": 2.0
+  },
+  {
+    "name": "Kane Williamson",
+    "role": "Batsman",
+    "country": "New Zealand",
+    "type": "Overseas",
+    "matches": 79,
+    "runs": 2128,
+    "wickets": 0,
+    "basePrice": 1.5
+  },
+  {
+    "name": "Travis Head",
+    "role": "Batsman",
+    "country": "Australia",
+    "type": "Overseas",
+    "matches": 30,
+    "runs": 900,
+    "wickets": 2,
+    "basePrice": 1.0
+  },
+  {
+    "name": "Devdutt Padikkal",
+    "role": "Batsman",
+    "country": "India",
+    "type": "Domestic",
+    "matches": 70,
+    "runs": 1600,
+    "wickets": 0,
+    "basePrice": 1.0
+  },
+  {
+    "name": "Ajinkya Rahane",
+    "role": "Batsman",
+    "country": "India",
+    "type": "Domestic",
+    "matches": 190,
+    "runs": 4900,
+    "wickets": 1,
+    "basePrice": 1.5
+  },
+  {
+    "name": "Marcus Stoinis",
+    "role": "All-Rounder",
+    "country": "Australia",
+    "type": "Overseas",
+    "matches": 90,
+    "runs": 1900,
+    "wickets": 40,
+    "basePrice": 1.5
+  },
+  {
+    "name": "Glenn Maxwell",
+    "role": "All-Rounder",
+    "country": "Australia",
+    "type": "Overseas",
+    "matches": 130,
+    "runs": 2800,
+    "wickets": 40,
+    "basePrice": 2.0
+  },
+  {
+    "name": "Liam Livingstone",
+    "role": "All-Rounder",
+    "country": "England",
+    "type": "Overseas",
+    "matches": 40,
+    "runs": 900,
+    "wickets": 10,
+    "basePrice": 1.5
+  },
+  {
+    "name": "Sam Curran",
+    "role": "All-Rounder",
+    "country": "England",
+    "type": "Overseas",
+    "matches": 60,
+    "runs": 700,
+    "wickets": 60,
+    "basePrice": 1.5
+  },
+  {
+    "name": "Cameron Green",
+    "role": "All-Rounder",
+    "country": "Australia",
+    "type": "Overseas",
+    "matches": 25,
+    "runs": 700,
+    "wickets": 15,
+    "basePrice": 1.5
+  },
+  {
+    "name": "Mitchell Marsh",
+    "role": "All-Rounder",
+    "country": "Australia",
+    "type": "Overseas",
+    "matches": 45,
+    "runs": 900,
+    "wickets": 30,
+    "basePrice": 1.5
+  },
+  {
+    "name": "Ravichandran Ashwin",
+    "role": "Bowler",
+    "country": "India",
+    "type": "Domestic",
+    "matches": 200,
+    "runs": 800,
+    "wickets": 180,
+    "basePrice": 1.5
+  },
+  {
+    "name": "Lockie Ferguson",
+    "role": "Bowler",
+    "country": "New Zealand",
+    "type": "Overseas",
+    "matches": 40,
+    "runs": 20,
+    "wickets": 45,
+    "basePrice": 1.0
+  },
+  {
+    "name": "Adam Zampa",
+    "role": "Bowler",
+    "country": "Australia",
+    "type": "Overseas",
+    "matches": 20,
+    "runs": 10,
+    "wickets": 30,
+    "basePrice": 1.0
+  },
+  {
+    "name": "Avesh Khan",
+    "role": "Bowler",
+    "country": "India",
+    "type": "Domestic",
+    "matches": 70,
+    "runs": 20,
+    "wickets": 75,
+    "basePrice": 1.0
+  },
+  {
+    "name": "Umran Malik",
+    "role": "Bowler",
+    "country": "India",
+    "type": "Domestic",
+    "matches": 25,
+    "runs": 5,
+    "wickets": 30,
+    "basePrice": 1.0
+  },
+  {
+    "name": "Mayank Markande",
+    "role": "Bowler",
+    "country": "India",
+    "type": "Domestic",
+    "matches": 40,
+    "runs": 10,
+    "wickets": 35,
+    "basePrice": 1.0
+  },
+  {
+    "name": "Rahul Tewatia",
+    "role": "All-Rounder",
+    "country": "India",
+    "type": "Domestic",
+    "matches": 90,
+    "runs": 900,
+    "wickets": 30,
+    "basePrice": 1.0
+  },
+  {
+    "name": "Shashank Singh",
+    "role": "All-Rounder",
+    "country": "India",
+    "type": "Domestic",
+    "matches": 30,
+    "runs": 500,
+    "wickets": 5,
+    "basePrice": 1.0
+  }
+]
